@@ -1,0 +1,13 @@
+body.teclado-ativo :focus {
+  outline: 3px solid #FFD700; 
+  outline-offset: 4px;
+}
+
+body.alto-contraste {
+  background-color: #000;
+  color: #FFF;
+}
+
+body.alto-contraste a {
+  color: #FFD700;
+}
